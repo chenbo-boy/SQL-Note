@@ -52,8 +52,8 @@
 
 ### 数据库
 #### 查看所有数据库
-    SQL创建表语句的一般格式：
-    SHOW DATABASES;
+SQL创建表语句的一般格式：
+SHOW DATABASES;
 ```
 mysql> show databases;
 +--------------------+
